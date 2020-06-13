@@ -1,0 +1,3 @@
+/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles/rebuild_cache.dir
+/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles/edit_cache.dir
+/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles/stm32l073rztx_cmake.elf.dir

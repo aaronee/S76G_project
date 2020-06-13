@@ -1,0 +1,21 @@
+
+OpenDocument="startup_stm32l073xx.s", FilePath="/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/startup/startup_stm32l073xx.s", Line=55
+OpenDocument="stm32l0xx_hal_uart.c", FilePath="/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_uart.c", Line=2732
+OpenDocument="main.c", FilePath="/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Src/main.c", Line=70
+OpenDocument="stm32l0xx_hal.c", FilePath="/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal.c", Line=316
+OpenDocument="stm32l0xx_hal_msp.c", FilePath="/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Src/stm32l0xx_hal_msp.c", Line=207
+OpenToolbar="File", Floating=0, x=0, y=0
+OpenToolbar="Debug", Floating=0, x=1, y=0
+OpenToolbar="Breakpoints", Floating=0, x=2, y=0
+OpenWindow="Call Stack", DockArea=RIGHT, x=0, y=1, w=425, h=350, FilterBarShown=0, ToolBarShown=0
+OpenWindow="Registers 1", DockArea=RIGHT, x=0, y=0, w=425, h=307, FilterBarShown=0, ToolBarShown=0, FilteredItems=[], RefreshRate=1
+OpenWindow="Source", x=0, y=0, w=0, h=0, FilterBarShown=0, ToolBarShown=0, ExecCountersShown=0
+OpenWindow="Memory 1", DockArea=BOTTOM, x=1, y=0, w=1117, h=254, FilterBarShown=0, ToolBarShown=0, EditorAddress=0x1900
+OpenWindow="Functions", DockArea=LEFT, x=0, y=0, w=418, h=644, FilterBarShown=1, ToolBarShown=0
+OpenWindow="Memory Usage", DockArea=LEFT, x=0, y=0, w=418, h=644, FilterBarShown=0, ToolBarShown=0
+OpenWindow="Console", DockArea=BOTTOM, x=0, y=0, w=418, h=254, FilterBarShown=0, ToolBarShown=0
+TableHeader="Functions", SortCol="Name", SortOrder="DESCENDING", VisibleCols=["Name";"Address";"Size";"#Insts";"Source"], ColWidths=[234;77;49;49;188]
+TableHeader="Call Stack", SortCol="Function", SortOrder="ASCENDING", VisibleCols=["Function";"Stack Frame";"Source";"PC";"Return Address";"Stack Used"], ColWidths=[232;56;43;43;98;56]
+TableHeader="Power Sampling", SortCol="Index", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="RegisterSelectionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Auto";"Name";"Address";"Description"], ColWidths=[26;26;26;26]
+TableHeader="Registers 1", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Description"], ColWidths=[183;160;152]
