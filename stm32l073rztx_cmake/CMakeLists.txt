@@ -14,6 +14,7 @@ set(CMAKE_OBJCOPY arm-none-eabi-objcopy)
 set(CMAKE_OBJDUMP arm-none-eabi-objdump)
 set(SIZE arm-none-eabi-size)
 set(EXECUTABLE_OUTPUT_PATH build)
+set(CMAKE_BUILD_PARALLEL_LEVEL 12)
 
 SET(LINKER_SCRIPT ${CMAKE_SOURCE_DIR}/STM32L073RZTx_FLASH.ld)
 
@@ -36,11 +37,37 @@ PROJECT(stm32l073rztx_cmake C CXX ASM)
 set(CMAKE_CXX_STANDARD 11)
 
 #add_definitions(-DARM_MATH_CM4 -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING -D__FPU_PRESENT=1)
-add_definitions(-DUSE_HAL_DRIVER -DSTM32L073xx)
+add_definitions(-DUSE_HAL_DRIVER -DSTM32L073xx -DACTIVE_REGION=LORAMAC_REGION_US915 -DREGION_US915 -DLORA_USE_TCXO) #-DLORA_USE_TCXO
 
-file(GLOB_RECURSE SOURCES "startup/*.*" "Drivers/*.*" "Src/*.*")
+file(GLOB_RECURSE SOURCES "startup/*.*" "Drivers/*.*" "Src/*.*" "Middlewares/*.*")
+list(REMOVE_ITEM SOURCES "${CMAKE_CURRENT_SOURCE_DIR}/Middlewares/LoRaMac-node/apps/LoRaMac/classA/NucleoL073/main.c"
+                         "${CMAKE_CURRENT_SOURCE_DIR}/Middlewares/LoRaMac-node/apps/LoRaMac/classB/NucleoL073/main.c"
+                         "${CMAKE_CURRENT_SOURCE_DIR}/Middlewares/LoRaMac-node/apps/LoRaMac/classC/NucleoL073/main.c"
+                         "${CMAKE_CURRENT_SOURCE_DIR}/Middlewares/LoRaMac-node/apps/LoRaMac/fuota-test-01/NucleoL073/main.c"
+                         "${CMAKE_CURRENT_SOURCE_DIR}/Middlewares/LoRaMac-node/apps/ping-pong/NucleoL073/main.c"
+                         "${CMAKE_CURRENT_SOURCE_DIR}/Middlewares/LoRaMac-node/apps/rx-sensi/NucleoL073/main.c"
+                         "${CMAKE_CURRENT_SOURCE_DIR}/Middlewares/LoRaMac-node/apps/tx-cw/NucleoL073/main.c"
+                         "${CMAKE_CURRENT_SOURCE_DIR}/Middlewares/LoRaMac-node/apps/LoRaMac/periodic-uplink-lpp/NucleoL073/main.c"
+                         )
 
-include_directories(Inc Drivers/STM32L0xx_HAL_Driver/Inc Drivers/STM32L0xx_HAL_Driver/Inc/Legacy Drivers/CMSIS/Device/ST/STM32L0xx/Include Drivers/CMSIS/Include)
+include_directories(Inc
+        Drivers/STM32L0xx_HAL_Driver/Inc
+        Drivers/STM32L0xx_HAL_Driver/Inc/Legacy
+        Drivers/CMSIS/Device/ST/STM32L0xx/Include
+        Drivers/CMSIS/Include
+        Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages
+        Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler
+        Middlewares/LoRaMac-node/apps/LoRaMac/common
+        Middlewares/LoRaMac-node/boards
+        Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion
+        Middlewares/LoRaMac-node/mac/region
+        Middlewares/LoRaMac-node/mac
+        Middlewares/LoRaMac-node/peripherals
+        Middlewares/LoRaMac-node/peripherals/soft-se
+        Middlewares/LoRaMac-node/radio/sx1276
+        Middlewares/LoRaMac-node/radio
+        Middlewares/LoRaMac-node/system
+        Middlewares/LoRaMac-node/system/crypto)
 
 add_executable(${PROJECT_NAME}.elf ${SOURCES} ${LINKER_SCRIPT})
 

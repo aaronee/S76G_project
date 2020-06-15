@@ -717,6 +717,1464 @@ Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_uart_ex.c.s:
 	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_uart_ex.c.s
 .PHONY : Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_uart_ex.c.s
 
+Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.obj: Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c.obj
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c.obj
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.i: Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c.i
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c.i
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c.i
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.s: Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c.s
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c.s
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c.s
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.obj: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c.obj
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c.obj
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.i: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c.i
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c.i
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c.i
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.s: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c.s
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c.s
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c.s
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.obj: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c.obj
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c.obj
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.i: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c.i
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c.i
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c.i
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.s: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c.s
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c.s
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c.s
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.obj: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c.obj
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c.obj
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.i: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c.i
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c.i
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c.i
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.s: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c.s
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c.s
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c.s
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.obj: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c.obj
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c.obj
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.i: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c.i
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c.i
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c.i
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.s: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c.s
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c.s
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c.s
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.obj: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c.obj
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c.obj
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.i: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c.i
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c.i
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c.i
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.s: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c.s
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c.s
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c.s
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.obj: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c.obj
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c.obj
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.i: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c.i
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c.i
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c.i
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.s: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c.s
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c.s
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c.s
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.obj: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c.obj
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c.obj
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.i: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c.i
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c.i
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c.i
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.s: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c.s
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c.s
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c.s
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.obj: Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c.obj
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c.obj
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.i: Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c.i
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c.i
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c.i
+
+Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.s: Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c.s
+
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c.s
+.PHONY : Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c.s
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.obj: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c.obj
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c.obj
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.i: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c.i
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c.i
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c.i
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.s: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c.s
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c.s
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c.s
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.obj: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c.obj
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c.obj
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.i: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c.i
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c.i
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c.i
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.s: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c.s
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c.s
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c.s
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.obj: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c.obj
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c.obj
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.i: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c.i
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c.i
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c.i
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.s: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c.s
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c.s
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c.s
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.obj: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c.obj
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c.obj
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.i: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c.i
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c.i
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c.i
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.s: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c.s
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c.s
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c.s
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.obj: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c.obj
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c.obj
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.i: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c.i
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c.i
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c.i
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.s: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c.s
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c.s
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c.s
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.obj: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c.obj
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c.obj
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.i: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c.i
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c.i
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c.i
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.s: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c.s
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c.s
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c.s
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.obj: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c.obj
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c.obj
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.i: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c.i
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c.i
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c.i
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.s: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c.s
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c.s
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c.s
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.obj: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c.obj
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c.obj
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.i: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c.i
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c.i
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c.i
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.s: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c.s
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c.s
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c.s
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.obj: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c.obj
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c.obj
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.i: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c.i
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c.i
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c.i
+
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.s: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c.s
+
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c.s
+.PHONY : Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c.s
+
+Middlewares/LoRaMac-node/mac/LoRaMac.obj: Middlewares/LoRaMac-node/mac/LoRaMac.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMac.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/mac/LoRaMac.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMac.c.obj
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMac.c.obj
+
+Middlewares/LoRaMac-node/mac/LoRaMac.i: Middlewares/LoRaMac-node/mac/LoRaMac.c.i
+
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMac.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/mac/LoRaMac.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMac.c.i
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMac.c.i
+
+Middlewares/LoRaMac-node/mac/LoRaMac.s: Middlewares/LoRaMac-node/mac/LoRaMac.c.s
+
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMac.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/mac/LoRaMac.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMac.c.s
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMac.c.s
+
+Middlewares/LoRaMac-node/mac/LoRaMacAdr.obj: Middlewares/LoRaMac-node/mac/LoRaMacAdr.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacAdr.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/mac/LoRaMacAdr.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacAdr.c.obj
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacAdr.c.obj
+
+Middlewares/LoRaMac-node/mac/LoRaMacAdr.i: Middlewares/LoRaMac-node/mac/LoRaMacAdr.c.i
+
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacAdr.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/mac/LoRaMacAdr.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacAdr.c.i
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacAdr.c.i
+
+Middlewares/LoRaMac-node/mac/LoRaMacAdr.s: Middlewares/LoRaMac-node/mac/LoRaMacAdr.c.s
+
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacAdr.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/mac/LoRaMacAdr.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacAdr.c.s
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacAdr.c.s
+
+Middlewares/LoRaMac-node/mac/LoRaMacClassB.obj: Middlewares/LoRaMac-node/mac/LoRaMacClassB.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacClassB.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/mac/LoRaMacClassB.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacClassB.c.obj
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacClassB.c.obj
+
+Middlewares/LoRaMac-node/mac/LoRaMacClassB.i: Middlewares/LoRaMac-node/mac/LoRaMacClassB.c.i
+
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacClassB.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/mac/LoRaMacClassB.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacClassB.c.i
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacClassB.c.i
+
+Middlewares/LoRaMac-node/mac/LoRaMacClassB.s: Middlewares/LoRaMac-node/mac/LoRaMacClassB.c.s
+
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacClassB.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/mac/LoRaMacClassB.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacClassB.c.s
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacClassB.c.s
+
+Middlewares/LoRaMac-node/mac/LoRaMacCommands.obj: Middlewares/LoRaMac-node/mac/LoRaMacCommands.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacCommands.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/mac/LoRaMacCommands.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCommands.c.obj
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacCommands.c.obj
+
+Middlewares/LoRaMac-node/mac/LoRaMacCommands.i: Middlewares/LoRaMac-node/mac/LoRaMacCommands.c.i
+
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacCommands.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/mac/LoRaMacCommands.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCommands.c.i
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacCommands.c.i
+
+Middlewares/LoRaMac-node/mac/LoRaMacCommands.s: Middlewares/LoRaMac-node/mac/LoRaMacCommands.c.s
+
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacCommands.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/mac/LoRaMacCommands.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCommands.c.s
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacCommands.c.s
+
+Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.obj: Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c.obj
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c.obj
+
+Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.i: Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c.i
+
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c.i
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c.i
+
+Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.s: Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c.s
+
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c.s
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c.s
+
+Middlewares/LoRaMac-node/mac/LoRaMacCrypto.obj: Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacCrypto.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c.obj
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c.obj
+
+Middlewares/LoRaMac-node/mac/LoRaMacCrypto.i: Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c.i
+
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacCrypto.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c.i
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c.i
+
+Middlewares/LoRaMac-node/mac/LoRaMacCrypto.s: Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c.s
+
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacCrypto.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c.s
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c.s
+
+Middlewares/LoRaMac-node/mac/LoRaMacParser.obj: Middlewares/LoRaMac-node/mac/LoRaMacParser.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacParser.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/mac/LoRaMacParser.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacParser.c.obj
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacParser.c.obj
+
+Middlewares/LoRaMac-node/mac/LoRaMacParser.i: Middlewares/LoRaMac-node/mac/LoRaMacParser.c.i
+
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacParser.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/mac/LoRaMacParser.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacParser.c.i
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacParser.c.i
+
+Middlewares/LoRaMac-node/mac/LoRaMacParser.s: Middlewares/LoRaMac-node/mac/LoRaMacParser.c.s
+
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacParser.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/mac/LoRaMacParser.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacParser.c.s
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacParser.c.s
+
+Middlewares/LoRaMac-node/mac/LoRaMacSerializer.obj: Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacSerializer.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c.obj
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c.obj
+
+Middlewares/LoRaMac-node/mac/LoRaMacSerializer.i: Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c.i
+
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacSerializer.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c.i
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c.i
+
+Middlewares/LoRaMac-node/mac/LoRaMacSerializer.s: Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c.s
+
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacSerializer.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c.s
+.PHONY : Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c.s
+
+Middlewares/LoRaMac-node/mac/region/Region.obj: Middlewares/LoRaMac-node/mac/region/Region.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/Region.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/mac/region/Region.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/Region.c.obj
+.PHONY : Middlewares/LoRaMac-node/mac/region/Region.c.obj
+
+Middlewares/LoRaMac-node/mac/region/Region.i: Middlewares/LoRaMac-node/mac/region/Region.c.i
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/Region.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/mac/region/Region.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/Region.c.i
+.PHONY : Middlewares/LoRaMac-node/mac/region/Region.c.i
+
+Middlewares/LoRaMac-node/mac/region/Region.s: Middlewares/LoRaMac-node/mac/region/Region.c.s
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/Region.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/mac/region/Region.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/Region.c.s
+.PHONY : Middlewares/LoRaMac-node/mac/region/Region.c.s
+
+Middlewares/LoRaMac-node/mac/region/RegionAS923.obj: Middlewares/LoRaMac-node/mac/region/RegionAS923.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionAS923.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/mac/region/RegionAS923.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAS923.c.obj
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionAS923.c.obj
+
+Middlewares/LoRaMac-node/mac/region/RegionAS923.i: Middlewares/LoRaMac-node/mac/region/RegionAS923.c.i
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionAS923.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/mac/region/RegionAS923.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAS923.c.i
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionAS923.c.i
+
+Middlewares/LoRaMac-node/mac/region/RegionAS923.s: Middlewares/LoRaMac-node/mac/region/RegionAS923.c.s
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionAS923.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/mac/region/RegionAS923.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAS923.c.s
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionAS923.c.s
+
+Middlewares/LoRaMac-node/mac/region/RegionAU915.obj: Middlewares/LoRaMac-node/mac/region/RegionAU915.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionAU915.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/mac/region/RegionAU915.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAU915.c.obj
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionAU915.c.obj
+
+Middlewares/LoRaMac-node/mac/region/RegionAU915.i: Middlewares/LoRaMac-node/mac/region/RegionAU915.c.i
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionAU915.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/mac/region/RegionAU915.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAU915.c.i
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionAU915.c.i
+
+Middlewares/LoRaMac-node/mac/region/RegionAU915.s: Middlewares/LoRaMac-node/mac/region/RegionAU915.c.s
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionAU915.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/mac/region/RegionAU915.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAU915.c.s
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionAU915.c.s
+
+Middlewares/LoRaMac-node/mac/region/RegionCN470.obj: Middlewares/LoRaMac-node/mac/region/RegionCN470.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionCN470.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/mac/region/RegionCN470.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN470.c.obj
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionCN470.c.obj
+
+Middlewares/LoRaMac-node/mac/region/RegionCN470.i: Middlewares/LoRaMac-node/mac/region/RegionCN470.c.i
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionCN470.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/mac/region/RegionCN470.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN470.c.i
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionCN470.c.i
+
+Middlewares/LoRaMac-node/mac/region/RegionCN470.s: Middlewares/LoRaMac-node/mac/region/RegionCN470.c.s
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionCN470.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/mac/region/RegionCN470.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN470.c.s
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionCN470.c.s
+
+Middlewares/LoRaMac-node/mac/region/RegionCN779.obj: Middlewares/LoRaMac-node/mac/region/RegionCN779.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionCN779.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/mac/region/RegionCN779.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN779.c.obj
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionCN779.c.obj
+
+Middlewares/LoRaMac-node/mac/region/RegionCN779.i: Middlewares/LoRaMac-node/mac/region/RegionCN779.c.i
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionCN779.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/mac/region/RegionCN779.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN779.c.i
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionCN779.c.i
+
+Middlewares/LoRaMac-node/mac/region/RegionCN779.s: Middlewares/LoRaMac-node/mac/region/RegionCN779.c.s
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionCN779.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/mac/region/RegionCN779.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN779.c.s
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionCN779.c.s
+
+Middlewares/LoRaMac-node/mac/region/RegionCommon.obj: Middlewares/LoRaMac-node/mac/region/RegionCommon.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionCommon.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/mac/region/RegionCommon.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCommon.c.obj
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionCommon.c.obj
+
+Middlewares/LoRaMac-node/mac/region/RegionCommon.i: Middlewares/LoRaMac-node/mac/region/RegionCommon.c.i
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionCommon.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/mac/region/RegionCommon.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCommon.c.i
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionCommon.c.i
+
+Middlewares/LoRaMac-node/mac/region/RegionCommon.s: Middlewares/LoRaMac-node/mac/region/RegionCommon.c.s
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionCommon.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/mac/region/RegionCommon.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCommon.c.s
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionCommon.c.s
+
+Middlewares/LoRaMac-node/mac/region/RegionEU433.obj: Middlewares/LoRaMac-node/mac/region/RegionEU433.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionEU433.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/mac/region/RegionEU433.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU433.c.obj
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionEU433.c.obj
+
+Middlewares/LoRaMac-node/mac/region/RegionEU433.i: Middlewares/LoRaMac-node/mac/region/RegionEU433.c.i
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionEU433.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/mac/region/RegionEU433.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU433.c.i
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionEU433.c.i
+
+Middlewares/LoRaMac-node/mac/region/RegionEU433.s: Middlewares/LoRaMac-node/mac/region/RegionEU433.c.s
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionEU433.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/mac/region/RegionEU433.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU433.c.s
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionEU433.c.s
+
+Middlewares/LoRaMac-node/mac/region/RegionEU868.obj: Middlewares/LoRaMac-node/mac/region/RegionEU868.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionEU868.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/mac/region/RegionEU868.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU868.c.obj
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionEU868.c.obj
+
+Middlewares/LoRaMac-node/mac/region/RegionEU868.i: Middlewares/LoRaMac-node/mac/region/RegionEU868.c.i
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionEU868.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/mac/region/RegionEU868.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU868.c.i
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionEU868.c.i
+
+Middlewares/LoRaMac-node/mac/region/RegionEU868.s: Middlewares/LoRaMac-node/mac/region/RegionEU868.c.s
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionEU868.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/mac/region/RegionEU868.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU868.c.s
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionEU868.c.s
+
+Middlewares/LoRaMac-node/mac/region/RegionIN865.obj: Middlewares/LoRaMac-node/mac/region/RegionIN865.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionIN865.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/mac/region/RegionIN865.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionIN865.c.obj
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionIN865.c.obj
+
+Middlewares/LoRaMac-node/mac/region/RegionIN865.i: Middlewares/LoRaMac-node/mac/region/RegionIN865.c.i
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionIN865.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/mac/region/RegionIN865.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionIN865.c.i
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionIN865.c.i
+
+Middlewares/LoRaMac-node/mac/region/RegionIN865.s: Middlewares/LoRaMac-node/mac/region/RegionIN865.c.s
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionIN865.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/mac/region/RegionIN865.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionIN865.c.s
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionIN865.c.s
+
+Middlewares/LoRaMac-node/mac/region/RegionKR920.obj: Middlewares/LoRaMac-node/mac/region/RegionKR920.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionKR920.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/mac/region/RegionKR920.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionKR920.c.obj
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionKR920.c.obj
+
+Middlewares/LoRaMac-node/mac/region/RegionKR920.i: Middlewares/LoRaMac-node/mac/region/RegionKR920.c.i
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionKR920.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/mac/region/RegionKR920.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionKR920.c.i
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionKR920.c.i
+
+Middlewares/LoRaMac-node/mac/region/RegionKR920.s: Middlewares/LoRaMac-node/mac/region/RegionKR920.c.s
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionKR920.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/mac/region/RegionKR920.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionKR920.c.s
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionKR920.c.s
+
+Middlewares/LoRaMac-node/mac/region/RegionRU864.obj: Middlewares/LoRaMac-node/mac/region/RegionRU864.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionRU864.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/mac/region/RegionRU864.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionRU864.c.obj
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionRU864.c.obj
+
+Middlewares/LoRaMac-node/mac/region/RegionRU864.i: Middlewares/LoRaMac-node/mac/region/RegionRU864.c.i
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionRU864.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/mac/region/RegionRU864.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionRU864.c.i
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionRU864.c.i
+
+Middlewares/LoRaMac-node/mac/region/RegionRU864.s: Middlewares/LoRaMac-node/mac/region/RegionRU864.c.s
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionRU864.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/mac/region/RegionRU864.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionRU864.c.s
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionRU864.c.s
+
+Middlewares/LoRaMac-node/mac/region/RegionUS915.obj: Middlewares/LoRaMac-node/mac/region/RegionUS915.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionUS915.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/mac/region/RegionUS915.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionUS915.c.obj
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionUS915.c.obj
+
+Middlewares/LoRaMac-node/mac/region/RegionUS915.i: Middlewares/LoRaMac-node/mac/region/RegionUS915.c.i
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionUS915.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/mac/region/RegionUS915.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionUS915.c.i
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionUS915.c.i
+
+Middlewares/LoRaMac-node/mac/region/RegionUS915.s: Middlewares/LoRaMac-node/mac/region/RegionUS915.c.s
+
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionUS915.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/mac/region/RegionUS915.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionUS915.c.s
+.PHONY : Middlewares/LoRaMac-node/mac/region/RegionUS915.c.s
+
+Middlewares/LoRaMac-node/peripherals/soft-se/aes.obj: Middlewares/LoRaMac-node/peripherals/soft-se/aes.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/peripherals/soft-se/aes.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/peripherals/soft-se/aes.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/aes.c.obj
+.PHONY : Middlewares/LoRaMac-node/peripherals/soft-se/aes.c.obj
+
+Middlewares/LoRaMac-node/peripherals/soft-se/aes.i: Middlewares/LoRaMac-node/peripherals/soft-se/aes.c.i
+
+.PHONY : Middlewares/LoRaMac-node/peripherals/soft-se/aes.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/peripherals/soft-se/aes.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/aes.c.i
+.PHONY : Middlewares/LoRaMac-node/peripherals/soft-se/aes.c.i
+
+Middlewares/LoRaMac-node/peripherals/soft-se/aes.s: Middlewares/LoRaMac-node/peripherals/soft-se/aes.c.s
+
+.PHONY : Middlewares/LoRaMac-node/peripherals/soft-se/aes.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/peripherals/soft-se/aes.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/aes.c.s
+.PHONY : Middlewares/LoRaMac-node/peripherals/soft-se/aes.c.s
+
+Middlewares/LoRaMac-node/peripherals/soft-se/cmac.obj: Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/peripherals/soft-se/cmac.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c.obj
+.PHONY : Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c.obj
+
+Middlewares/LoRaMac-node/peripherals/soft-se/cmac.i: Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c.i
+
+.PHONY : Middlewares/LoRaMac-node/peripherals/soft-se/cmac.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c.i
+.PHONY : Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c.i
+
+Middlewares/LoRaMac-node/peripherals/soft-se/cmac.s: Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c.s
+
+.PHONY : Middlewares/LoRaMac-node/peripherals/soft-se/cmac.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c.s
+.PHONY : Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c.s
+
+Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.obj: Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c.obj
+.PHONY : Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c.obj
+
+Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.i: Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c.i
+
+.PHONY : Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c.i
+.PHONY : Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c.i
+
+Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.s: Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c.s
+
+.PHONY : Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c.s
+.PHONY : Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c.s
+
+Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.obj: Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c.obj
+.PHONY : Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c.obj
+
+Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.i: Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c.i
+
+.PHONY : Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c.i
+.PHONY : Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c.i
+
+Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.s: Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c.s
+
+.PHONY : Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c.s
+.PHONY : Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c.s
+
+Middlewares/LoRaMac-node/radio/sx1276/sx1276.obj: Middlewares/LoRaMac-node/radio/sx1276/sx1276.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/radio/sx1276/sx1276.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/radio/sx1276/sx1276.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/radio/sx1276/sx1276.c.obj
+.PHONY : Middlewares/LoRaMac-node/radio/sx1276/sx1276.c.obj
+
+Middlewares/LoRaMac-node/radio/sx1276/sx1276.i: Middlewares/LoRaMac-node/radio/sx1276/sx1276.c.i
+
+.PHONY : Middlewares/LoRaMac-node/radio/sx1276/sx1276.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/radio/sx1276/sx1276.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/radio/sx1276/sx1276.c.i
+.PHONY : Middlewares/LoRaMac-node/radio/sx1276/sx1276.c.i
+
+Middlewares/LoRaMac-node/radio/sx1276/sx1276.s: Middlewares/LoRaMac-node/radio/sx1276/sx1276.c.s
+
+.PHONY : Middlewares/LoRaMac-node/radio/sx1276/sx1276.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/radio/sx1276/sx1276.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/radio/sx1276/sx1276.c.s
+.PHONY : Middlewares/LoRaMac-node/radio/sx1276/sx1276.c.s
+
+Middlewares/LoRaMac-node/system/adc.obj: Middlewares/LoRaMac-node/system/adc.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/system/adc.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/system/adc.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/adc.c.obj
+.PHONY : Middlewares/LoRaMac-node/system/adc.c.obj
+
+Middlewares/LoRaMac-node/system/adc.i: Middlewares/LoRaMac-node/system/adc.c.i
+
+.PHONY : Middlewares/LoRaMac-node/system/adc.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/system/adc.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/adc.c.i
+.PHONY : Middlewares/LoRaMac-node/system/adc.c.i
+
+Middlewares/LoRaMac-node/system/adc.s: Middlewares/LoRaMac-node/system/adc.c.s
+
+.PHONY : Middlewares/LoRaMac-node/system/adc.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/system/adc.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/adc.c.s
+.PHONY : Middlewares/LoRaMac-node/system/adc.c.s
+
+Middlewares/LoRaMac-node/system/delay.obj: Middlewares/LoRaMac-node/system/delay.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/system/delay.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/system/delay.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/delay.c.obj
+.PHONY : Middlewares/LoRaMac-node/system/delay.c.obj
+
+Middlewares/LoRaMac-node/system/delay.i: Middlewares/LoRaMac-node/system/delay.c.i
+
+.PHONY : Middlewares/LoRaMac-node/system/delay.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/system/delay.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/delay.c.i
+.PHONY : Middlewares/LoRaMac-node/system/delay.c.i
+
+Middlewares/LoRaMac-node/system/delay.s: Middlewares/LoRaMac-node/system/delay.c.s
+
+.PHONY : Middlewares/LoRaMac-node/system/delay.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/system/delay.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/delay.c.s
+.PHONY : Middlewares/LoRaMac-node/system/delay.c.s
+
+Middlewares/LoRaMac-node/system/eeprom.obj: Middlewares/LoRaMac-node/system/eeprom.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/system/eeprom.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/system/eeprom.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/eeprom.c.obj
+.PHONY : Middlewares/LoRaMac-node/system/eeprom.c.obj
+
+Middlewares/LoRaMac-node/system/eeprom.i: Middlewares/LoRaMac-node/system/eeprom.c.i
+
+.PHONY : Middlewares/LoRaMac-node/system/eeprom.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/system/eeprom.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/eeprom.c.i
+.PHONY : Middlewares/LoRaMac-node/system/eeprom.c.i
+
+Middlewares/LoRaMac-node/system/eeprom.s: Middlewares/LoRaMac-node/system/eeprom.c.s
+
+.PHONY : Middlewares/LoRaMac-node/system/eeprom.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/system/eeprom.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/eeprom.c.s
+.PHONY : Middlewares/LoRaMac-node/system/eeprom.c.s
+
+Middlewares/LoRaMac-node/system/fifo.obj: Middlewares/LoRaMac-node/system/fifo.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/system/fifo.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/system/fifo.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/fifo.c.obj
+.PHONY : Middlewares/LoRaMac-node/system/fifo.c.obj
+
+Middlewares/LoRaMac-node/system/fifo.i: Middlewares/LoRaMac-node/system/fifo.c.i
+
+.PHONY : Middlewares/LoRaMac-node/system/fifo.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/system/fifo.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/fifo.c.i
+.PHONY : Middlewares/LoRaMac-node/system/fifo.c.i
+
+Middlewares/LoRaMac-node/system/fifo.s: Middlewares/LoRaMac-node/system/fifo.c.s
+
+.PHONY : Middlewares/LoRaMac-node/system/fifo.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/system/fifo.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/fifo.c.s
+.PHONY : Middlewares/LoRaMac-node/system/fifo.c.s
+
+Middlewares/LoRaMac-node/system/gpio.obj: Middlewares/LoRaMac-node/system/gpio.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/system/gpio.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/system/gpio.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gpio.c.obj
+.PHONY : Middlewares/LoRaMac-node/system/gpio.c.obj
+
+Middlewares/LoRaMac-node/system/gpio.i: Middlewares/LoRaMac-node/system/gpio.c.i
+
+.PHONY : Middlewares/LoRaMac-node/system/gpio.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/system/gpio.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gpio.c.i
+.PHONY : Middlewares/LoRaMac-node/system/gpio.c.i
+
+Middlewares/LoRaMac-node/system/gpio.s: Middlewares/LoRaMac-node/system/gpio.c.s
+
+.PHONY : Middlewares/LoRaMac-node/system/gpio.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/system/gpio.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gpio.c.s
+.PHONY : Middlewares/LoRaMac-node/system/gpio.c.s
+
+Middlewares/LoRaMac-node/system/gps.obj: Middlewares/LoRaMac-node/system/gps.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/system/gps.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/system/gps.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gps.c.obj
+.PHONY : Middlewares/LoRaMac-node/system/gps.c.obj
+
+Middlewares/LoRaMac-node/system/gps.i: Middlewares/LoRaMac-node/system/gps.c.i
+
+.PHONY : Middlewares/LoRaMac-node/system/gps.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/system/gps.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gps.c.i
+.PHONY : Middlewares/LoRaMac-node/system/gps.c.i
+
+Middlewares/LoRaMac-node/system/gps.s: Middlewares/LoRaMac-node/system/gps.c.s
+
+.PHONY : Middlewares/LoRaMac-node/system/gps.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/system/gps.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gps.c.s
+.PHONY : Middlewares/LoRaMac-node/system/gps.c.s
+
+Middlewares/LoRaMac-node/system/i2c.obj: Middlewares/LoRaMac-node/system/i2c.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/system/i2c.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/system/i2c.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/i2c.c.obj
+.PHONY : Middlewares/LoRaMac-node/system/i2c.c.obj
+
+Middlewares/LoRaMac-node/system/i2c.i: Middlewares/LoRaMac-node/system/i2c.c.i
+
+.PHONY : Middlewares/LoRaMac-node/system/i2c.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/system/i2c.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/i2c.c.i
+.PHONY : Middlewares/LoRaMac-node/system/i2c.c.i
+
+Middlewares/LoRaMac-node/system/i2c.s: Middlewares/LoRaMac-node/system/i2c.c.s
+
+.PHONY : Middlewares/LoRaMac-node/system/i2c.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/system/i2c.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/i2c.c.s
+.PHONY : Middlewares/LoRaMac-node/system/i2c.c.s
+
+Middlewares/LoRaMac-node/system/nvmm.obj: Middlewares/LoRaMac-node/system/nvmm.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/system/nvmm.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/system/nvmm.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/nvmm.c.obj
+.PHONY : Middlewares/LoRaMac-node/system/nvmm.c.obj
+
+Middlewares/LoRaMac-node/system/nvmm.i: Middlewares/LoRaMac-node/system/nvmm.c.i
+
+.PHONY : Middlewares/LoRaMac-node/system/nvmm.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/system/nvmm.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/nvmm.c.i
+.PHONY : Middlewares/LoRaMac-node/system/nvmm.c.i
+
+Middlewares/LoRaMac-node/system/nvmm.s: Middlewares/LoRaMac-node/system/nvmm.c.s
+
+.PHONY : Middlewares/LoRaMac-node/system/nvmm.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/system/nvmm.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/nvmm.c.s
+.PHONY : Middlewares/LoRaMac-node/system/nvmm.c.s
+
+Middlewares/LoRaMac-node/system/systime.obj: Middlewares/LoRaMac-node/system/systime.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/system/systime.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/system/systime.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/systime.c.obj
+.PHONY : Middlewares/LoRaMac-node/system/systime.c.obj
+
+Middlewares/LoRaMac-node/system/systime.i: Middlewares/LoRaMac-node/system/systime.c.i
+
+.PHONY : Middlewares/LoRaMac-node/system/systime.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/system/systime.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/systime.c.i
+.PHONY : Middlewares/LoRaMac-node/system/systime.c.i
+
+Middlewares/LoRaMac-node/system/systime.s: Middlewares/LoRaMac-node/system/systime.c.s
+
+.PHONY : Middlewares/LoRaMac-node/system/systime.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/system/systime.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/systime.c.s
+.PHONY : Middlewares/LoRaMac-node/system/systime.c.s
+
+Middlewares/LoRaMac-node/system/timer.obj: Middlewares/LoRaMac-node/system/timer.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/system/timer.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/system/timer.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/timer.c.obj
+.PHONY : Middlewares/LoRaMac-node/system/timer.c.obj
+
+Middlewares/LoRaMac-node/system/timer.i: Middlewares/LoRaMac-node/system/timer.c.i
+
+.PHONY : Middlewares/LoRaMac-node/system/timer.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/system/timer.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/timer.c.i
+.PHONY : Middlewares/LoRaMac-node/system/timer.c.i
+
+Middlewares/LoRaMac-node/system/timer.s: Middlewares/LoRaMac-node/system/timer.c.s
+
+.PHONY : Middlewares/LoRaMac-node/system/timer.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/system/timer.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/timer.c.s
+.PHONY : Middlewares/LoRaMac-node/system/timer.c.s
+
+Middlewares/LoRaMac-node/system/uart.obj: Middlewares/LoRaMac-node/system/uart.c.obj
+
+.PHONY : Middlewares/LoRaMac-node/system/uart.obj
+
+# target to build an object file
+Middlewares/LoRaMac-node/system/uart.c.obj:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/uart.c.obj
+.PHONY : Middlewares/LoRaMac-node/system/uart.c.obj
+
+Middlewares/LoRaMac-node/system/uart.i: Middlewares/LoRaMac-node/system/uart.c.i
+
+.PHONY : Middlewares/LoRaMac-node/system/uart.i
+
+# target to preprocess a source file
+Middlewares/LoRaMac-node/system/uart.c.i:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/uart.c.i
+.PHONY : Middlewares/LoRaMac-node/system/uart.c.i
+
+Middlewares/LoRaMac-node/system/uart.s: Middlewares/LoRaMac-node/system/uart.c.s
+
+.PHONY : Middlewares/LoRaMac-node/system/uart.s
+
+# target to generate assembly for a file
+Middlewares/LoRaMac-node/system/uart.c.s:
+	$(MAKE) -f CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/uart.c.s
+.PHONY : Middlewares/LoRaMac-node/system/uart.c.s
+
 Src/main.obj: Src/main.c.obj
 
 .PHONY : Src/main.obj
@@ -936,6 +2394,168 @@ help:
 	@echo "... Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_uart_ex.obj"
 	@echo "... Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_uart_ex.i"
 	@echo "... Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_uart_ex.s"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.obj"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.i"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.s"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.obj"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.i"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.s"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.obj"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.i"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.s"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.obj"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.i"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.s"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.obj"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.i"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.s"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.obj"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.i"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.s"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.obj"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.i"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.s"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.obj"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.i"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.s"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.obj"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.i"
+	@echo "... Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.s"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.obj"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.i"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.s"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.obj"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.i"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.s"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.obj"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.i"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.s"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.obj"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.i"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.s"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.obj"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.i"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.s"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.obj"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.i"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.s"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.obj"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.i"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.s"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.obj"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.i"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.s"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.obj"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.i"
+	@echo "... Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.s"
+	@echo "... Middlewares/LoRaMac-node/mac/LoRaMac.obj"
+	@echo "... Middlewares/LoRaMac-node/mac/LoRaMac.i"
+	@echo "... Middlewares/LoRaMac-node/mac/LoRaMac.s"
+	@echo "... Middlewares/LoRaMac-node/mac/LoRaMacAdr.obj"
+	@echo "... Middlewares/LoRaMac-node/mac/LoRaMacAdr.i"
+	@echo "... Middlewares/LoRaMac-node/mac/LoRaMacAdr.s"
+	@echo "... Middlewares/LoRaMac-node/mac/LoRaMacClassB.obj"
+	@echo "... Middlewares/LoRaMac-node/mac/LoRaMacClassB.i"
+	@echo "... Middlewares/LoRaMac-node/mac/LoRaMacClassB.s"
+	@echo "... Middlewares/LoRaMac-node/mac/LoRaMacCommands.obj"
+	@echo "... Middlewares/LoRaMac-node/mac/LoRaMacCommands.i"
+	@echo "... Middlewares/LoRaMac-node/mac/LoRaMacCommands.s"
+	@echo "... Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.obj"
+	@echo "... Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.i"
+	@echo "... Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.s"
+	@echo "... Middlewares/LoRaMac-node/mac/LoRaMacCrypto.obj"
+	@echo "... Middlewares/LoRaMac-node/mac/LoRaMacCrypto.i"
+	@echo "... Middlewares/LoRaMac-node/mac/LoRaMacCrypto.s"
+	@echo "... Middlewares/LoRaMac-node/mac/LoRaMacParser.obj"
+	@echo "... Middlewares/LoRaMac-node/mac/LoRaMacParser.i"
+	@echo "... Middlewares/LoRaMac-node/mac/LoRaMacParser.s"
+	@echo "... Middlewares/LoRaMac-node/mac/LoRaMacSerializer.obj"
+	@echo "... Middlewares/LoRaMac-node/mac/LoRaMacSerializer.i"
+	@echo "... Middlewares/LoRaMac-node/mac/LoRaMacSerializer.s"
+	@echo "... Middlewares/LoRaMac-node/mac/region/Region.obj"
+	@echo "... Middlewares/LoRaMac-node/mac/region/Region.i"
+	@echo "... Middlewares/LoRaMac-node/mac/region/Region.s"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionAS923.obj"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionAS923.i"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionAS923.s"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionAU915.obj"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionAU915.i"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionAU915.s"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionCN470.obj"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionCN470.i"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionCN470.s"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionCN779.obj"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionCN779.i"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionCN779.s"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionCommon.obj"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionCommon.i"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionCommon.s"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionEU433.obj"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionEU433.i"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionEU433.s"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionEU868.obj"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionEU868.i"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionEU868.s"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionIN865.obj"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionIN865.i"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionIN865.s"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionKR920.obj"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionKR920.i"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionKR920.s"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionRU864.obj"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionRU864.i"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionRU864.s"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionUS915.obj"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionUS915.i"
+	@echo "... Middlewares/LoRaMac-node/mac/region/RegionUS915.s"
+	@echo "... Middlewares/LoRaMac-node/peripherals/soft-se/aes.obj"
+	@echo "... Middlewares/LoRaMac-node/peripherals/soft-se/aes.i"
+	@echo "... Middlewares/LoRaMac-node/peripherals/soft-se/aes.s"
+	@echo "... Middlewares/LoRaMac-node/peripherals/soft-se/cmac.obj"
+	@echo "... Middlewares/LoRaMac-node/peripherals/soft-se/cmac.i"
+	@echo "... Middlewares/LoRaMac-node/peripherals/soft-se/cmac.s"
+	@echo "... Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.obj"
+	@echo "... Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.i"
+	@echo "... Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.s"
+	@echo "... Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.obj"
+	@echo "... Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.i"
+	@echo "... Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.s"
+	@echo "... Middlewares/LoRaMac-node/radio/sx1276/sx1276.obj"
+	@echo "... Middlewares/LoRaMac-node/radio/sx1276/sx1276.i"
+	@echo "... Middlewares/LoRaMac-node/radio/sx1276/sx1276.s"
+	@echo "... Middlewares/LoRaMac-node/system/adc.obj"
+	@echo "... Middlewares/LoRaMac-node/system/adc.i"
+	@echo "... Middlewares/LoRaMac-node/system/adc.s"
+	@echo "... Middlewares/LoRaMac-node/system/delay.obj"
+	@echo "... Middlewares/LoRaMac-node/system/delay.i"
+	@echo "... Middlewares/LoRaMac-node/system/delay.s"
+	@echo "... Middlewares/LoRaMac-node/system/eeprom.obj"
+	@echo "... Middlewares/LoRaMac-node/system/eeprom.i"
+	@echo "... Middlewares/LoRaMac-node/system/eeprom.s"
+	@echo "... Middlewares/LoRaMac-node/system/fifo.obj"
+	@echo "... Middlewares/LoRaMac-node/system/fifo.i"
+	@echo "... Middlewares/LoRaMac-node/system/fifo.s"
+	@echo "... Middlewares/LoRaMac-node/system/gpio.obj"
+	@echo "... Middlewares/LoRaMac-node/system/gpio.i"
+	@echo "... Middlewares/LoRaMac-node/system/gpio.s"
+	@echo "... Middlewares/LoRaMac-node/system/gps.obj"
+	@echo "... Middlewares/LoRaMac-node/system/gps.i"
+	@echo "... Middlewares/LoRaMac-node/system/gps.s"
+	@echo "... Middlewares/LoRaMac-node/system/i2c.obj"
+	@echo "... Middlewares/LoRaMac-node/system/i2c.i"
+	@echo "... Middlewares/LoRaMac-node/system/i2c.s"
+	@echo "... Middlewares/LoRaMac-node/system/nvmm.obj"
+	@echo "... Middlewares/LoRaMac-node/system/nvmm.i"
+	@echo "... Middlewares/LoRaMac-node/system/nvmm.s"
+	@echo "... Middlewares/LoRaMac-node/system/systime.obj"
+	@echo "... Middlewares/LoRaMac-node/system/systime.i"
+	@echo "... Middlewares/LoRaMac-node/system/systime.s"
+	@echo "... Middlewares/LoRaMac-node/system/timer.obj"
+	@echo "... Middlewares/LoRaMac-node/system/timer.i"
+	@echo "... Middlewares/LoRaMac-node/system/timer.s"
+	@echo "... Middlewares/LoRaMac-node/system/uart.obj"
+	@echo "... Middlewares/LoRaMac-node/system/uart.i"
+	@echo "... Middlewares/LoRaMac-node/system/uart.s"
 	@echo "... Src/main.obj"
 	@echo "... Src/main.i"
 	@echo "... Src/main.s"

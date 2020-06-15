@@ -21,6 +21,9 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="NamedScopeManager">
+    <scope name="Middlewares" pattern="file[stm32l073rztx_cmake]:Middlewares/LoRaMac-node//*" />
+  </component>
   <component name="ProjectId" id="1dEchMkkpoK25UfEB3hImLsYIoO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,17 +32,22 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Src" />
-      <recent name="$PROJECT_DIR$/Inc" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Ozone" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Middlewares/LoRaMac-node/src" />
+      <recent name="$PROJECT_DIR$/Middlewares/LoRaMac-node" />
+      <recent name="$PROJECT_DIR$/Middlewares/LoRaMac-node/boards/AcSiPNode" />
+      <recent name="$PROJECT_DIR$/Drivers/STM32L0xx_HAL_Driver/Inc" />
+      <recent name="$PROJECT_DIR$/Drivers/STM32L0xx_HAL_Driver/Src" />
     </key>
   </component>
   <component name="TaskManager">
@@ -51,8 +59,30 @@
       <updated>1591993810304</updated>
       <workItem from="1591993811692" duration="235000" />
       <workItem from="1591994156584" duration="4857000" />
-      <workItem from="1592009001551" duration="7960000" />
+      <workItem from="1592009001551" duration="18527000" />
+      <workItem from="1592103464347" duration="2157000" />
+      <workItem from="1592200759083" duration="4011000" />
+      <workItem from="1592245777865" duration="792000" />
+      <workItem from="1592249403468" duration="10360000" />
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="435" y="266" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592250139091">
+      <screen x="0" y="23" width="1536" height="869" />
+    </state>
+    <state x="435" y="266" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1536.869@0.23.1536.869" timestamp="1592250139091" />
+    <state x="269" y="119" key="SettingsEditor" timestamp="1592246151661">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="269" y="119" key="SettingsEditor/0.0.1536.960@0.0.1536.960" timestamp="1592246151661" />
+    <state x="469" y="112" width="598" height="735" key="find.popup" timestamp="1592258654243">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="469" y="112" width="598" height="735" key="find.popup/0.0.1536.960@0.0.1536.960" timestamp="1592258654243" />
+    <state x="568" y="345" width="501" height="379" key="scopes" timestamp="1592258577971">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="568" y="345" width="501" height="379" key="scopes/0.0.1536.960@0.0.1536.960" timestamp="1592258577971" />
   </component>
 </project>

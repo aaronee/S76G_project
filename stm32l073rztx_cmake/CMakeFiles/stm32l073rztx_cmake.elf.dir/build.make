@@ -343,9 +343,711 @@ CMakeFiles/stm32l073rztx_cmake.elf.dir/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0x
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_uart_ex.c.s"
 	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_uart_ex.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_uart_ex.c.s
 
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c.obj: Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c.obj: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c.obj: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c.obj: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c.obj: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c.obj: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c.obj: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c.obj: Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c.obj: Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c.obj: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c.obj: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c.obj: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c.obj: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c.obj: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c.obj: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c.obj: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c.obj: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c.obj: Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMac.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMac.c.obj: Middlewares/LoRaMac-node/mac/LoRaMac.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMac.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMac.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/LoRaMac.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMac.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMac.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/LoRaMac.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMac.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMac.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMac.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/LoRaMac.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMac.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacAdr.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacAdr.c.obj: Middlewares/LoRaMac-node/mac/LoRaMacAdr.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacAdr.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacAdr.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/LoRaMacAdr.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacAdr.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacAdr.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/LoRaMacAdr.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacAdr.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacAdr.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacAdr.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/LoRaMacAdr.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacAdr.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacClassB.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacClassB.c.obj: Middlewares/LoRaMac-node/mac/LoRaMacClassB.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacClassB.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacClassB.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/LoRaMacClassB.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacClassB.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacClassB.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/LoRaMacClassB.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacClassB.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacClassB.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacClassB.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/LoRaMacClassB.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacClassB.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCommands.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCommands.c.obj: Middlewares/LoRaMac-node/mac/LoRaMacCommands.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCommands.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCommands.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/LoRaMacCommands.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCommands.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCommands.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/LoRaMacCommands.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCommands.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCommands.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCommands.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/LoRaMacCommands.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCommands.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c.obj: Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c.obj: Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacParser.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacParser.c.obj: Middlewares/LoRaMac-node/mac/LoRaMacParser.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacParser.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacParser.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/LoRaMacParser.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacParser.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacParser.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/LoRaMacParser.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacParser.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacParser.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacParser.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/LoRaMacParser.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacParser.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c.obj: Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/Region.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/Region.c.obj: Middlewares/LoRaMac-node/mac/region/Region.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/Region.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/Region.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/Region.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/Region.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/Region.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/Region.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/Region.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/Region.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/Region.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/Region.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/Region.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAS923.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAS923.c.obj: Middlewares/LoRaMac-node/mac/region/RegionAS923.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAS923.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAS923.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionAS923.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAS923.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAS923.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionAS923.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAS923.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAS923.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAS923.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionAS923.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAS923.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAU915.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAU915.c.obj: Middlewares/LoRaMac-node/mac/region/RegionAU915.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAU915.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAU915.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionAU915.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAU915.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAU915.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionAU915.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAU915.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAU915.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAU915.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionAU915.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAU915.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN470.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN470.c.obj: Middlewares/LoRaMac-node/mac/region/RegionCN470.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN470.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN470.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionCN470.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN470.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN470.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionCN470.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN470.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN470.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN470.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionCN470.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN470.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN779.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN779.c.obj: Middlewares/LoRaMac-node/mac/region/RegionCN779.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN779.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN779.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionCN779.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN779.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN779.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionCN779.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN779.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN779.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN779.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionCN779.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN779.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCommon.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCommon.c.obj: Middlewares/LoRaMac-node/mac/region/RegionCommon.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCommon.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCommon.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionCommon.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCommon.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCommon.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionCommon.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCommon.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCommon.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCommon.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionCommon.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCommon.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU433.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU433.c.obj: Middlewares/LoRaMac-node/mac/region/RegionEU433.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU433.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU433.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionEU433.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU433.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU433.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionEU433.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU433.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU433.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU433.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionEU433.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU433.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU868.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU868.c.obj: Middlewares/LoRaMac-node/mac/region/RegionEU868.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU868.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU868.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionEU868.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU868.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU868.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionEU868.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU868.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU868.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU868.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionEU868.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU868.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionIN865.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionIN865.c.obj: Middlewares/LoRaMac-node/mac/region/RegionIN865.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionIN865.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionIN865.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionIN865.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionIN865.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionIN865.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionIN865.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionIN865.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionIN865.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionIN865.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionIN865.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionIN865.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionKR920.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionKR920.c.obj: Middlewares/LoRaMac-node/mac/region/RegionKR920.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionKR920.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionKR920.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionKR920.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionKR920.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionKR920.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionKR920.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionKR920.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionKR920.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionKR920.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionKR920.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionKR920.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionRU864.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionRU864.c.obj: Middlewares/LoRaMac-node/mac/region/RegionRU864.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionRU864.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionRU864.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionRU864.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionRU864.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionRU864.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionRU864.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionRU864.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionRU864.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionRU864.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionRU864.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionRU864.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionUS915.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionUS915.c.obj: Middlewares/LoRaMac-node/mac/region/RegionUS915.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionUS915.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionUS915.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionUS915.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionUS915.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionUS915.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionUS915.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionUS915.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionUS915.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionUS915.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/mac/region/RegionUS915.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionUS915.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/aes.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/aes.c.obj: Middlewares/LoRaMac-node/peripherals/soft-se/aes.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/aes.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/aes.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/peripherals/soft-se/aes.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/aes.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/aes.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/peripherals/soft-se/aes.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/aes.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/aes.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/aes.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/peripherals/soft-se/aes.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/aes.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c.obj: Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c.obj: Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c.obj: Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/radio/sx1276/sx1276.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/radio/sx1276/sx1276.c.obj: Middlewares/LoRaMac-node/radio/sx1276/sx1276.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/radio/sx1276/sx1276.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/radio/sx1276/sx1276.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/radio/sx1276/sx1276.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/radio/sx1276/sx1276.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/radio/sx1276/sx1276.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/radio/sx1276/sx1276.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/radio/sx1276/sx1276.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/radio/sx1276/sx1276.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/radio/sx1276/sx1276.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/radio/sx1276/sx1276.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/radio/sx1276/sx1276.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/adc.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/adc.c.obj: Middlewares/LoRaMac-node/system/adc.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/adc.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/adc.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/adc.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/adc.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/adc.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/adc.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/adc.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/adc.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/adc.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/adc.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/adc.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/delay.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/delay.c.obj: Middlewares/LoRaMac-node/system/delay.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/delay.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/delay.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/delay.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/delay.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/delay.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/delay.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/delay.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/delay.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/delay.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/delay.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/delay.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/eeprom.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/eeprom.c.obj: Middlewares/LoRaMac-node/system/eeprom.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/eeprom.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/eeprom.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/eeprom.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/eeprom.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/eeprom.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/eeprom.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/eeprom.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/eeprom.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/eeprom.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/eeprom.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/eeprom.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/fifo.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/fifo.c.obj: Middlewares/LoRaMac-node/system/fifo.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/fifo.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/fifo.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/fifo.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/fifo.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/fifo.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/fifo.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/fifo.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/fifo.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/fifo.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/fifo.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/fifo.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gpio.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gpio.c.obj: Middlewares/LoRaMac-node/system/gpio.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gpio.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gpio.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/gpio.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gpio.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gpio.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/gpio.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gpio.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gpio.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gpio.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/gpio.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gpio.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gps.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gps.c.obj: Middlewares/LoRaMac-node/system/gps.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gps.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gps.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/gps.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gps.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gps.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/gps.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gps.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gps.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gps.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/gps.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gps.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/i2c.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/i2c.c.obj: Middlewares/LoRaMac-node/system/i2c.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/i2c.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/i2c.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/i2c.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/i2c.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/i2c.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/i2c.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/i2c.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/i2c.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/i2c.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/i2c.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/i2c.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/nvmm.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/nvmm.c.obj: Middlewares/LoRaMac-node/system/nvmm.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/nvmm.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/nvmm.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/nvmm.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/nvmm.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/nvmm.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/nvmm.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/nvmm.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/nvmm.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/nvmm.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/nvmm.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/nvmm.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/systime.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/systime.c.obj: Middlewares/LoRaMac-node/system/systime.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/systime.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/systime.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/systime.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/systime.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/systime.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/systime.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/systime.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/systime.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/systime.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/systime.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/systime.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/timer.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/timer.c.obj: Middlewares/LoRaMac-node/system/timer.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/timer.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/timer.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/timer.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/timer.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/timer.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/timer.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/timer.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/timer.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/timer.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/timer.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/timer.c.s
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/uart.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/uart.c.obj: Middlewares/LoRaMac-node/system/uart.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/uart.c.obj"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/uart.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/uart.c
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/uart.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/uart.c.i"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/uart.c > CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/uart.c.i
+
+CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/uart.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/uart.c.s"
+	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Middlewares/LoRaMac-node/system/uart.c -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/uart.c.s
+
 CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/main.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
 CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/main.c.obj: Src/main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/main.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/main.c.obj"
 	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/main.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Src/main.c
 
 CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/main.c.i: cmake_force
@@ -358,7 +1060,7 @@ CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/main.c.s: cmake_force
 
 CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/stm32l0xx_hal_msp.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
 CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/stm32l0xx_hal_msp.c.obj: Src/stm32l0xx_hal_msp.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/stm32l0xx_hal_msp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/stm32l0xx_hal_msp.c.obj"
 	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/stm32l0xx_hal_msp.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Src/stm32l0xx_hal_msp.c
 
 CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/stm32l0xx_hal_msp.c.i: cmake_force
@@ -371,7 +1073,7 @@ CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/stm32l0xx_hal_msp.c.s: cmake_force
 
 CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/stm32l0xx_it.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
 CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/stm32l0xx_it.c.obj: Src/stm32l0xx_it.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/stm32l0xx_it.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/stm32l0xx_it.c.obj"
 	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/stm32l0xx_it.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Src/stm32l0xx_it.c
 
 CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/stm32l0xx_it.c.i: cmake_force
@@ -384,7 +1086,7 @@ CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/stm32l0xx_it.c.s: cmake_force
 
 CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/syscalls.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
 CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/syscalls.c.obj: Src/syscalls.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/syscalls.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/syscalls.c.obj"
 	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/syscalls.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Src/syscalls.c
 
 CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/syscalls.c.i: cmake_force
@@ -397,7 +1099,7 @@ CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/syscalls.c.s: cmake_force
 
 CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/system_stm32l0xx.c.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
 CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/system_stm32l0xx.c.obj: Src/system_stm32l0xx.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/system_stm32l0xx.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building C object CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/system_stm32l0xx.c.obj"
 	/usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/system_stm32l0xx.c.obj   -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/Src/system_stm32l0xx.c
 
 CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/system_stm32l0xx.c.i: cmake_force
@@ -410,7 +1112,7 @@ CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/system_stm32l0xx.c.s: cmake_force
 
 CMakeFiles/stm32l073rztx_cmake.elf.dir/startup/startup_stm32l073xx.s.obj: CMakeFiles/stm32l073rztx_cmake.elf.dir/flags.make
 CMakeFiles/stm32l073rztx_cmake.elf.dir/startup/startup_stm32l073xx.s.obj: startup/startup_stm32l073xx.s
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building ASM object CMakeFiles/stm32l073rztx_cmake.elf.dir/startup/startup_stm32l073xx.s.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building ASM object CMakeFiles/stm32l073rztx_cmake.elf.dir/startup/startup_stm32l073xx.s.obj"
 	/usr/local/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/stm32l073rztx_cmake.elf.dir/startup/startup_stm32l073xx.s.obj -c /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/startup/startup_stm32l073xx.s
 
 # Object files for target stm32l073rztx_cmake.elf
@@ -437,6 +1139,60 @@ stm32l073rztx_cmake_elf_OBJECTS = \
 "CMakeFiles/stm32l073rztx_cmake.elf.dir/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_tim_ex.c.obj" \
 "CMakeFiles/stm32l073rztx_cmake.elf.dir/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_uart.c.obj" \
 "CMakeFiles/stm32l073rztx_cmake.elf.dir/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_uart_ex.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMac.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacAdr.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacClassB.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCommands.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacParser.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/Region.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAS923.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAU915.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN470.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN779.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCommon.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU433.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU868.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionIN865.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionKR920.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionRU864.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionUS915.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/aes.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/radio/sx1276/sx1276.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/adc.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/delay.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/eeprom.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/fifo.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gpio.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gps.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/i2c.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/nvmm.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/systime.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/timer.c.obj" \
+"CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/uart.c.obj" \
 "CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/main.c.obj" \
 "CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/stm32l0xx_hal_msp.c.obj" \
 "CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/stm32l0xx_it.c.obj" \
@@ -469,6 +1225,60 @@ build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Drivers/ST
 build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_tim_ex.c.obj
 build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_uart.c.obj
 build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Drivers/STM32L0xx_HAL_Driver/Src/stm32l0xx_hal_uart_ex.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/CayenneLpp.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/LmHandler.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/FragDecoder.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpClockSync.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpCompliance.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpFragmentation.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandler/packages/LmhpRemoteMcastSetup.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/LmHandlerMsgDisplay.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/apps/LoRaMac/common/NvmCtxMgmt.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/board.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/delay-board.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/eeprom-board.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/gpio-board.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/lpm-board.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/rtc-board.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/spi-board.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/sx1276-board.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/boards/S76G-lilygo-tmotion/utilities.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMac.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacAdr.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacClassB.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCommands.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacConfirmQueue.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacCrypto.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacParser.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/LoRaMacSerializer.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/Region.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAS923.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionAU915.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN470.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCN779.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionCommon.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU433.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionEU868.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionIN865.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionKR920.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionRU864.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/mac/region/RegionUS915.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/aes.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/cmac.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se-hal.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/peripherals/soft-se/soft-se.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/radio/sx1276/sx1276.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/adc.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/delay.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/eeprom.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/fifo.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gpio.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/gps.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/i2c.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/nvmm.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/systime.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/timer.c.obj
+build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Middlewares/LoRaMac-node/system/uart.c.obj
 build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/main.c.obj
 build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/stm32l0xx_hal_msp.c.obj
 build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/stm32l0xx_it.c.obj
@@ -477,7 +1287,7 @@ build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/Src/system
 build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/startup/startup_stm32l073xx.s.obj
 build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/build.make
 build/stm32l073rztx_cmake.elf: CMakeFiles/stm32l073rztx_cmake.elf.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Linking C executable build/stm32l073rztx_cmake.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Linking C executable build/stm32l073rztx_cmake.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/stm32l073rztx_cmake.elf.dir/link.txt --verbose=$(VERBOSE)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold "Building /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/build/stm32l073rztx_cmake.hex"
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold "Building /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake/build/stm32l073rztx_cmake.bin"

@@ -1,4 +1,11 @@
 /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "CodeBlocks - Unix Makefiles" /Users/khoahuynh/Documents/Document/Lilygo_T-motion/stm32l073rztx_cmake
+-- Configuring done
+You have changed variables that require your cache to be deleted.
+Configure will be re-run and you may have to reset some variables.
+The following variables have changed:
+CMAKE_C_COMPILER= /usr/bin/gcc
+CMAKE_CXX_COMPILER= /usr/bin/g++
+
 -- The C compiler identification is GNU 9.2.1
 -- The CXX compiler identification is GNU 9.2.1
 -- The ASM compiler identification is GNU
